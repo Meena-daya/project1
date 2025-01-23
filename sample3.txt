@@ -1,0 +1,1 @@
+finally i'm creating a file in Vs code and connect to github.
